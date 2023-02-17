@@ -14,6 +14,5 @@
     "hobbies": ["play violin", "physical exercises"]
 }
 ```
-## Para os que continuam lendo está página...
 
 - 🤖 I'm a programmer trying to understand the great Software of Human Existence and the interactions between people.
