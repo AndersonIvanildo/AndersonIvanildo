@@ -5,13 +5,13 @@
 ```
 {
     "name": "Anderson Ivanildo",
-    "age": "22",
+    "age": "23",
     "occupation": {
-        "ocupação-atual": "estudante do curso de Engenharia da Computação",
+        "ocupação-atual": "Estudante do curso de Engenharia da Computação",
         "institution": "Federal university of Ceará",
         "location": "Sobral, CE - Brazil"
         },
-    "hobbies": ["play violin", "physical exercises"]
+    "hobbies": ["play violin", "physical exercises", "music"]
 }
 ```
 
