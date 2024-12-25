@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy" />
     <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Matplotlib-0076A8?style=for-the-badge&logo=data:image/svg+xml;base64,<base64_image>" alt="matplotlib" />
+    <img src="https://img.shields.io/badge/Matplotlib-0076A8?style=for-the-badge" alt="matplotlib" />
 </div>
 <hr>
 
@@ -33,5 +33,18 @@
 <hr>
 
 <h2 align="center"> Let's Connect! </h2>
-
+<div align="center">
+    <a href="https://www.linkedin.com/in/andersonivanildo/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/AndersonIvanildo" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://lattes.cnpq.br/6054384198235790" target="_blank">
+        <img src="https://img.shields.io/badge/Lattes-0052cc?style=for-the-badge&logoColor=white" alt="Currículo Lattes" />
+    </a>
+    <a href="mailto:andersonivanildo@protonmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    </a>
+</div>
 <hr>
