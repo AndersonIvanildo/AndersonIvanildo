@@ -3,7 +3,7 @@
 <hr>
 <h2 align="center"> About Me </h2>
 
-<p align="justify"> Computer Engineering student at the <a href="https://sobral.ufc.br/"> Federal University of Ceará - Campus Sobral</a>, aged 23. I am the Vice Director of <a href="https://nuclic.ufc.br">Nuclic (Laboratory of Computing Systems)</a>, where I lead projects in Internet of Things, Artificial Intelligence, and Cloud Computing. My expertise lies in Artificial Intelligence, with a focus on Machine Learning and Natural Language Processing, while also integrating embedded systems and automation into my academic background. At Nuclic, I strive not only to expand my knowledge but also to inspire others to explore and innovate. </p>
+<p align="justify"> Computer Engineering student at the <a href="https://sobral.ufc.br/"> Federal University of Ceará - Campus Sobral</a>, aged 24. I am the Vice Director of <a href="https://nuclic.ufc.br">Nuclic (Laboratory of Computing Systems)</a>, where I lead projects in Internet of Things, Artificial Intelligence, and Cloud Computing. My expertise lies in Artificial Intelligence, with a focus on Machine Learning and Natural Language Processing, while also integrating embedded systems and automation into my academic background. At Nuclic, I strive not only to expand my knowledge but also to inspire others to explore and innovate. </p>
 <hr>
 
 <h2 align="center"> Technologies & Tools </h2>
